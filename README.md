@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Full Stack Web and Blockchain developer</h1>
 <h3 align="center">I'm a student of software engineering and a passionate developer with expertise in MERN stack, Blockchain, and Next.js</h3>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-aziz-48a430243) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/afourabdullah) 
 
