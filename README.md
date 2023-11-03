@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Full Stack Web and Blockchain developer</h1>
-<h3 align="center">I'm a student of software engineering and a passionate developer with expertise in MERN stack, Blockchain, and Next.js</h3>
+<h3 align="center">Dedicated and versatile Software Engineer with a passion for building cutting-edge web applications and blockchain solutions. With expertise in MERN stack, Next.js, and blockchain technologies, I have developed my skills to create seamless, secure, and scalable digital experiences. I've had the experience of developing a diverse range of applications, from e-commerce stores to booking applications. My proficiency in Decentralized Applications has allowed me to push the boundaries of innovation in the blockchain space</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abdullah-aziz-48a430243) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/afourabdullah) 
